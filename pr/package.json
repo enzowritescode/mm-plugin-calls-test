@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@playwright/test": "^1.49.1",
+    "fs": "^0.0.1-security",
+    "playwright-merge-html-reports": "file:playwright-merge-html-reports-1.0.0.tgz"
+  }
+}
